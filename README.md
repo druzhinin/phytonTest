@@ -1,2 +1,2 @@
 # phytonTest
-Some stuff for learning Phyton
+Some stuff will be here while learning Phyton
